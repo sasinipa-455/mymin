@@ -1,2 +1,3 @@
 # mymin
 uuu
+love
