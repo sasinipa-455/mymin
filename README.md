@@ -1,0 +1,2 @@
+# mymin
+uuu
